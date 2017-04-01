@@ -1,0 +1,10 @@
+1,Action
+2,Adventure
+3,Strategy
+4,Platformer
+5,Shooter
+6,Fighting
+7,Horror
+8,RPG
+9,MMO
+10,Sandbox

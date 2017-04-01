@@ -1,0 +1,13 @@
+1,Nintendo
+2,Tomohiro Nishikado
+3,Konami
+4,FromSoftware
+5,Psyonix
+6,Popcap
+7,Massive Entertainment 
+8,Rockstar
+9,343 Industries
+10,Avalanche Studios
+11,Supermassive Games
+12,Bethesda 
+13,Blizzard
